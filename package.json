@@ -1,0 +1,25 @@
+{
+  "name": "fisheryates",
+  "version": "1.0.0",
+  "description": "Shuffle an array of objects using Fisher-Yates shuffle algorithm",
+  "main": "src/shuffle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surbhioberoi/fisher-yates-shuffle.git"
+  },
+  "keywords": [
+    "shuffle",
+    "fisher",
+    "yates",
+    "knuth"
+  ],
+  "author": "Surbhi Oberoi <mail@surbhioberoi.com> (http://surbhioberoi.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/surbhioberoi/fisher-yates-shuffle/issues"
+  },
+  "homepage": "https://github.com/surbhioberoi/fisher-yates-shuffle#readme"
+}
